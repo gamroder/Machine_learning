@@ -17,8 +17,8 @@ So go on!
 
 [Github](https://github.com/gamroder/Machine_learning/blob/master/K-means.ipynb)
 
-##Different interesting algorithms
+## Different interesting algorithms
 
-### [Project Euler] (https://projecteuler.net/archives)
+### [Project Euler](https://projecteuler.net/archives)
 
 [Github](https://github.com/gamroder/Machine_learning/blob/master/projecteuler.ipynb)
